@@ -1,4 +1,4 @@
-# restAPIWithSecurity
+# rest-api-with-security
 
 Exemple of successful GET call : 
 
